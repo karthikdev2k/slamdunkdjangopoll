@@ -1,5 +1,5 @@
 ﻿beautifulsoup4==4.5.3
-Django==2.2.13
+Django==2.2.27
 djangorestframework==3.9.1
 future==0.16.0
 pbr==3.1.1
